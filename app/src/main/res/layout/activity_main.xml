@@ -64,7 +64,7 @@
             android:autofillHints=""
             android:ems="10"
             android:hint="@string/valor_em_r_ex_1700_00"
-            android:inputType="text"
+            android:inputType="number|numberDecimal"
             android:minHeight="48dp" />
 
         <TextView
@@ -83,7 +83,7 @@
             android:ems="10"
             android:hint="@string/ex_100_00"
             android:importantForAutofill="no"
-            android:inputType="text"
+            android:inputType="number|numberDecimal"
             android:minHeight="48dp" />
 
         <TextView
@@ -101,7 +101,7 @@
             android:ems="10"
             android:hint="@string/em_meses"
             android:importantForAutofill="no"
-            android:inputType="text"
+            android:inputType="number"
             android:minHeight="48dp" />
 
         <TextView
@@ -119,7 +119,7 @@
             android:autofillHints=""
             android:ems="10"
             android:hint="@string/ex_00_2"
-            android:inputType="text"
+            android:inputType="number|numberDecimal"
             android:minHeight="48dp" />
 
         <LinearLayout
@@ -144,7 +144,15 @@
                 android:textColor="#FFFFFF"
                 android:textSize="20sp"
                 tools:ignore="VisualLintButtonSize" />
+
         </LinearLayout>
+
+        <TextView
+            android:id="@+id/txtResultado"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center" />
 
     </LinearLayout>
 
