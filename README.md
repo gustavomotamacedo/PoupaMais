@@ -24,8 +24,8 @@ Este aplicativo foi criado como parte da avaliação para obtenção de nota na 
 
 ## Tecnologias Utilizadas
 
-- [Tecnologia 1]: Android SDK
-- [Tecnologia 2]: Java
+- Tecnologia 1: Android SDK
+- Tecnologia 2: Java
 
 ## Objetivo
 
@@ -33,7 +33,7 @@ O objetivo principal deste projeto é consolidar o conhecimento adquirido na dis
 
 ## Autor
 
-- **Nome do Estudante**: [Gustavo Mota Macedo]
+- **Nome do Estudante**: Gustavo Mota Macedo
 - **Disciplina**: Programação de Dispositivos Móveis
 - **Instituição**: Univercidade Cidade de São Paulo
 
