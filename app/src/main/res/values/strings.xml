@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PoupaMais</string>
+    <string name="ex_00_2">Ex.: 00,2</string>
+    <string name="valor_em_r_ex_1700_00">Valor em R$. Ex.: 1700,00</string>
+    <string name="ex_100_00">Ex.: 100,00</string>
+    <string name="em_meses">Em meses</string>
+    <string name="valor_inicial">Valor inicial:</string>
+    <string name="aplica_o_mensal">Aplicação Mensal</string>
+    <string name="tempo_de_aplica_o">Tempo de Aplicação</string>
+    <string name="taxa">Taxa</string>
+    <string name="calcular">Calcular</string>
+    <string name="calcule_seus_investimentos">CALCULE SEUS INVESTIMENTOS</string>
+    <string name="resultado">RESULTADO</string>
+</resources>
